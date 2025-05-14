@@ -27,6 +27,7 @@ export default {
         Typography,
       ],
       content: `
+      ## Secret
         <p>
           Markdown shortcuts make it easy to format the text while typing.
         </p>
